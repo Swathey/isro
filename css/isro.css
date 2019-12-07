@@ -1,0 +1,41 @@
+
+.a1{
+	float: left;
+	width: 10%;
+}
+.a2{
+	float: left;
+	width: 78%;
+	padding: 10px;
+	font-family: Arial;
+	/*background:  linear-gradient(to right, #00ccff 0%, #cc33ff 100%);
+*/	 
+ color:  #ffffcc;
+}
+.z{
+	font-color:white;
+}
+.clear{
+	clear: both;
+}
+.d{
+	float: left;
+	width: 100%;
+}
+.a3{
+	float: left;
+	width: 10%;
+}
+.f{
+	float: left;
+	width: 50%;
+	color:  #ffe6f7;
+	font-size: 20px;
+}
+.h{
+	align-items: center;
+	float: left;
+	width: 100%;
+	font-size: 25px;
+	color:  #e6fff2;
+}
